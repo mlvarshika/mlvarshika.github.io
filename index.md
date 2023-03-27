@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is where i write my blog posts.
 
-Maybe say a some things about yourself.
+coming up soon...
 
-Or maybe what you plan to blog about.
+
