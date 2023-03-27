@@ -1,5 +1,5 @@
-## This is my first blog post
-How conservatism continues to combat ML
+## How conservatism continues to combat ML
+
 
 
 Recently there was an article published in nature, about the use of a machine-learning algorithm for testing COVID travelers. 
