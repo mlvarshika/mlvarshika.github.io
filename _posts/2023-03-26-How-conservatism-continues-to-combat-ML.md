@@ -9,6 +9,9 @@ This transition in the travel industry was adapted much easily in larger economi
 But smaller nations suffered and continue to suffer to provide enough medical assistance. 
 The shortcomings of insufficient testing facilities had a larger impact. They played by the blunt rules of the border closure.
 
+![image](https://user-images.githubusercontent.com/92452836/227815227-b08f5918-8442-40c2-a954-78088889b7ba.png)
+
+
 If out of 140 passengers in a flight the algorithm predicts 50 most in risk, optimization of resources. 
 I would say this is a multiway solution. Intelligent use of resources, reduced time of touchdown and faster processing. 
 But as decades of work in statistics and computer science suggests, the prediction might be just locked in the phase of pandemic last year. 
